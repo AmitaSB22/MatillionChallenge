@@ -34,7 +34,6 @@ class FeedbackPage
     }
     sendBtn()
     {
-       // return cy.get('span.MuiButton-label')
         return cy.get('button#submit')
     }
     feedbackSentMessage()
