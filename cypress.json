@@ -1,0 +1,8 @@
+{
+    "env":
+    {
+        "url": "https://matillion-automation-test.com/",
+        "userName": "l.jenkins",
+        "password": "hunter2"
+    }
+ }
